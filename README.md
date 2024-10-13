@@ -1,1 +1,1 @@
-# thesis-pathclass
+# Automatic Classification of Swedish Pathology Reports
