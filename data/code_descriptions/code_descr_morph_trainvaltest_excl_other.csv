@@ -1,0 +1,25 @@
+,Morphology Code (5-digits),Description (incl. grade)
+0,80413,"Småcelligt carcinom, UNS"
+1,80703,"Skivepitelcarcinom, UNS"
+2,81202,"Urotelialt carcinom utan papillära drag, höggradig"
+3,81202,"Urotelialt carcinom, in situ"
+4,81203,Urotelialt carcinom grad II
+5,81203,Urotelialt carcinom UNS
+6,81203,Urotelialt carcinom grad III
+7,81203,Urotelialt carcinom grad I
+8,81302,"Papillärt urotelialt carcinom, icke-invasivt grad II (C67)"
+9,81302,"Papillärt urotelialt carcinom, icke-invasivt låggradigt (C67)"
+10,81302,"Papillärt urotelialt carcinom, icke-invasivt höggradigt (C67)"
+11,81302,"Papillärt urotelialt carcinom, icke-invasivt (C67)"
+12,81303,Papillärt övergångsepitelcarcinom grad II (C67)
+13,81303,Papillärt övergångsepitelcarcinom grad I (C67)
+14,81303,"Papillärt övergångsepitelcarcinom, grad III (C67)"
+15,81403,Adenocarcinom UNS
+16,82403,"Neuroendokrin tumör, UNS"
+17,84613,Höggradigt seröst carcinom (C56.9)
+18,84803,Mucinöst adenocarcinom
+19,85002,"Intraduktalt carcinom icke-infiltrerande, UNS"
+20,85003,"Duktalt carcinom infiltrerande, UNS"
+21,85203,"Lobulärt carcinom, UNS (C50)"
+22,85223,Kombinerat duktalt och lobulärt carcinom (C50)
+23,85233,Duktalt carcinom blandat med andra typer av carcinom (C50)
