@@ -1,0 +1,3 @@
+,accuracy,f1_macro,f1_weighted,best_epoch
+best_ep6_BERT_s42_bs16_p3_mx8_lrit5_dr0.1--fzpartiallr3e-05cwFalse,0.8231641468682506,0.6336601509041763,0.8132281890875571,6
+best_ep3_BERT_s42_bs16_p3_mx8_lrit5_dr0.1--fzpartiallr5e-05cwFalse,0.8199244060475162,0.6317636576149174,0.8068579877787062,3
